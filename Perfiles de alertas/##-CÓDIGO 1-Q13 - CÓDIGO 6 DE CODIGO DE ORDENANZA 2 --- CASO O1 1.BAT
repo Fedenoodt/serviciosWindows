@@ -1,0 +1,2 @@
+DEFRAG /U C
+DEFRAG /U E
