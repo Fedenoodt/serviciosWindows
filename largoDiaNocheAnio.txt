@@ -1,0 +1,23 @@
+Enero-Febrero
+14.41 dia -- 1000 (16h 40')
+9.19 noche -- 559 (9h 19')
+
+Marzo-Abril
+12.33 dia
+11.27 noche -- 689 (11h 29')
+
+Mayo-Junio
+10.54 dia
+13.06 noche -- 764 (12h 44')
+
+Julio-Agosto
+11.19 dia
+12.41 noche -- 761 (12h 41')
+
+Septiembre-Octubre
+13.16 dia
+10.44 noche -- 644 (10h 44')
+
+Noviembre-Diciembre
+15.16 dia
+8.44 noche -- 524 (8h 44')
