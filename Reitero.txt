@@ -2,7 +2,7 @@
 
 Dia: Buenos Aires II, Tokio W, Buenos Aires W, Miramar W, 
 Canberra, Sydney, Londres II, Lima, Venecia, Sorrento W, 
-Berlin, Central Park N.Y., París, Manhattan W, Petra, 
+Berlin, Central Park N.Y., París, Manhattan W, Petra W, 
 Silicon Valley II, Oakland, San Francisco, Dubai.
 
 Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas, San 
@@ -16,7 +16,7 @@ Final:
 Dia: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
 Barcelona, Irish, Canberra, Sydney, Sudáfrica, Liverpool, 
 Central Park N.Y., "Lago Italia", Hong Kong, Silicon Valley
-II, Oakland, 
+II, Oakland. 
 
 Noche: Chicago, Nueva York, San Francisco, Las Vegas, San 
 Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
@@ -28,7 +28,7 @@ Final:
 Dia: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
 Barcelona, Orlando, Canberra, Sydney, Venecia, Narrow 
 Twisting Cliffside Road, Central Park N.Y., Cape Town, 
-Hong Kong, Silicon Valley II, Oakland, 
+Hong Kong, Silicon Valley II, Oakland.
 
 Noche: Milan, Miami, Monaco, Nueva York, San Francisco II, 
 Las Vegas, San Diego, Buenos Aires IIIII, Los Angeles, 
@@ -75,7 +75,14 @@ Final:
 
 ==== Conteo....
 
-Dia:
+Dia: Buenos Aires 15, Tokio W, Tokyo 4, Buenos Aires W, 
+Miramar W, Canberra 6, Sydney 6, Londres 4, Lima 3, 
+Venecia 5, Sorrento W, Berlín 3, Central Park N.Y. 6, 
+París 4, Manhattan W, Petra W, Silicon Valley 11, Oakland 
+6, San Francisco 3, Dubai 3, Irish, Sudáfrica, Liverpool, 
+"Lago Italia", Hong Kong 5, Roma 4, Narrow Twisting 
+Cliffside Road, Cape Town, Washington DC, Milan, Aspen, 
+Los Angeles.
 
 Noche:
 
