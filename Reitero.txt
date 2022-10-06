@@ -7,7 +7,7 @@ Silicon Valley II, Oakland, San Francisco, Dubai.
 
 Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas, San 
 Francisco, Miramar W, Buenos Aires W II, Buenos Aires II, 
-Los Angeles, Hollywood, Tandil.
+Los Angeles, Hollywood, Tandil W.
 
 Final:
 
@@ -69,7 +69,7 @@ Sydney, Londres II, Lima, Venecia, Berlín, Central Park NY,
 París, Hong Kong, Silicon Valley II, Oakland, Dubai.
 
 Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas, 
-Detroit, Buenos Aires III, Londres.
+Detroit, Buenos Aires III, y Londres.
 
 Final:
 
@@ -81,10 +81,14 @@ Venecia 5, Sorrento W, Berlín 3, Central Park N.Y. 6,
 París 4, Manhattan W, Petra W, Silicon Valley 11, Oakland 
 6, San Francisco 3, Dubai 3, Irish, Sudáfrica, Liverpool, 
 "Lago Italia", Hong Kong 5, Roma 4, Narrow Twisting 
-Cliffside Road, Cape Town, Washington DC, Milan, Aspen, 
+Cliffside Road, Cape Town, Washington DC, Milan, Aspen, y 
 Los Angeles.
 
-Noche:
+Noche: Chicago 5, Miami 5, Rio de Janeiro 4, Las Vegas 6, San 
+Francisco 5, Miramar W, Buenos Aires W 2, Buenos Aires 22, 
+Los Angeles 5, Hollywood 3, Tandil W, San Diego 3, Ibiza, 
+Milan, Monaco, Washington DC 2, Philadelphia, Londres 2, 
+Detroit.
 
 Final:
 
