@@ -1,6 +1,6 @@
 =Enero-Febrero=
 
-Dia: Buenos Aires II, Tokio W, Buenos Aires W, Miramar W, 
+Dia: Dubai,  Buenos Aires II, Tokio W, Buenos Aires W, Miramar W, 
 Canberra, Sydney, Londres II, Lima, Venecia, Sorrento W, 
 Berlin, Central Park N.Y., París, Manhattan W, Petra W, 
 Silicon Valley II, Oakland, San Francisco, Dubai.
@@ -75,11 +75,11 @@ Final:
 
 ==== Conteo....
 
-Dia: Buenos Aires 15, Tokio W, Tokyo 4, Buenos Aires W, 
+Dia: Buenos Aires 14, Tokio W, Tokyo 4, Buenos Aires W, 
 Miramar W, Canberra 6, Sydney 6, Londres 4, Lima 3, 
 Venecia 5, Sorrento W, Berlín 3, Central Park N.Y. 6, 
 París 4, Manhattan W, Petra W, Silicon Valley 11, Oakland 
-6, San Francisco 3, Dubai 3, Irish, Sudáfrica, Liverpool, 
+6, San Francisco 3, Dubai 4, Irish, Sudáfrica, Liverpool, 
 "Lago Italia", Hong Kong 5, Roma 4, Narrow Twisting 
 Cliffside Road, Cape Town, Washington DC, Milan, Aspen, y 
 Los Angeles.
