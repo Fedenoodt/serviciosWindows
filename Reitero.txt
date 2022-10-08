@@ -10,10 +10,10 @@ Francisco, Miramar W, Buenos Aires W II, Buenos Aires II,
 Los Angeles, Hollywood, Tandil W.
 
 Final: 
-    Día: Tokio W, Buenos Aires W, Miramar W, 
-    Canberra, Sydney, Londres II, Lima, Venecia, Sorrento W, 
+    Día: Dubai, Davos, Tokio W, Buenos Aires W, Miramar W, 
+    Sydney, Londres II, Lima, Venecia, Sorrento W, 
     Berlin, Central Park N.Y., París, Manhattan W, Cairo, 
-    Petra W, Silicon Valley, San Francisco, Dubai.
+    Petra W, Silicon Valley, San Francisco.
     
     Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, San 
     Francisco, Miramar W, Buenos Aires W II, Buenos Aires II, 
@@ -34,7 +34,8 @@ Final:
     Día: 
     
     Noche: Toronto, Chicago, Nueva York, San Francisco, 
-    San Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
+    San Diego, Sao Paulo, Ibiza, Buenos Aires II, Dallas, 
+    Los Angeles.
     
     
 =Mayo-Junio=
