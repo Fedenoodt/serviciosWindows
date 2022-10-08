@@ -9,7 +9,16 @@ Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas, San
 Francisco, Miramar W, Buenos Aires W II, Buenos Aires II, 
 Los Angeles, Hollywood, Tandil W.
 
-Final:
+Final: 
+    Día: Tokio W, Buenos Aires W, Miramar W, 
+    Canberra, Sydney, Londres II, Lima, Venecia, Sorrento W, 
+    Berlin, Central Park N.Y., París, Manhattan W, Cairo, 
+    Petra W, Silicon Valley, San Francisco, Dubai.
+    
+    Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, San 
+    Francisco, Miramar W, Buenos Aires W II, Buenos Aires II, 
+    Los Angeles, Hollywood.
+
 
 =Marzo-Abril=
 
@@ -22,7 +31,11 @@ Noche: Chicago, Nueva York, San Francisco, Las Vegas, San
 Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
 
 Final:
-
+    Día: 
+    
+    Noche:
+    
+    
 =Mayo-Junio=
 
 Dia: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
@@ -35,6 +48,10 @@ Las Vegas, San Diego, Buenos Aires IIIII, Los Angeles,
 Hollywood, Washington DC.
 
 Final:
+    Día: 
+    
+    Noche:
+    
 
 =Julio-Agosto=
 
@@ -48,6 +65,10 @@ Vegas, San Diego, Buenos Aires IIIII, Los Angeles,
 Hollywood, Washington DC.
 
 Final:
+    Día: 
+    
+    Noche:
+    
 
 =Septiembre-Octubre=
 
@@ -60,6 +81,10 @@ Noche: Chicago, Miami, Nueva York, Las Vegas,
 Philadelphia, San Diego, Buenos Aires II, Londres.
 
 Final:
+    Día: 
+    
+    Noche:
+    
 
 =Noviembre-Diciembre=
 
@@ -72,6 +97,10 @@ Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas,
 Detroit, Buenos Aires III, y Londres.
 
 Final:
+    Día: 
+    
+    Noche:
+    
 
 ==== Conteo....
 
@@ -91,5 +120,7 @@ Milan, Monaco, Washington DC 2, Philadelphia, Londres 2,
 Detroit.
 
 Final:
-
-
+    Día: 
+    
+    Noche:
+    
