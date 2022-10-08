@@ -21,17 +21,19 @@ Final:
 
 
 =Marzo-Abril=
+    Día: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
+    Barcelona, Irish, Mumbai, Sudáfrica, Liverpool, 
+    Central Park N.Y., "Lago Italia", Hong Kong, Silicon Valley
+    II, Oakland. 
 
-Dia: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
-Barcelona, Irish, Canberra, Sydney, Sudáfrica, Liverpool, 
-Central Park N.Y., "Lago Italia", Hong Kong, Silicon Valley
-II, Oakland. 
 
-Noche: Chicago, Nueva York, San Francisco, Las Vegas, San 
-Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
+    Noche: Chicago, Nueva York, San Francisco, Las Vegas, San 
+    Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
 
 Final:
-    Día: 
+    Dia: Roma, Rio de Janeiro, Buenos Aires II, Tokyo, Miami, 
+    Irish, Mumbai, Sudáfrica, Liverpool, Los Angeles, Central Park
+    N.Y., "Lago Italia", Zion Park Utah, Silicon Valley, Oakland. 
     
     Noche: Toronto, Chicago, Nueva York, San Francisco, 
     San Diego, Sao Paulo, Ibiza, Buenos Aires II, Dallas, 
@@ -107,7 +109,7 @@ Final:
 ==== Conteo....
 
 Dia: Buenos Aires 14, Tokio W, Tokyo 4, Buenos Aires W, 
-Miramar W, Canberra 6, Sydney 6, Londres 4, Lima 3, 
+Miramar W, Madrid 5, Barcelona 5, Canberra 6, Sydney 6, Londres 4, Lima 3, 
 Venecia 5, Sorrento W, Berlín 3, Central Park N.Y. 6, 
 París 4, Manhattan W, Petra W, Silicon Valley 11, Oakland 
 6, San Francisco 3, Dubai 4, Irish, Sudáfrica, Liverpool, 
