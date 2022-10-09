@@ -52,9 +52,14 @@ Las Vegas, San Diego, Buenos Aires IIIII, Los Angeles,
 Hollywood, Washington DC.
 
 Final:
-    Día: 
+    Dia: Roma, Rio de Janeiro, Buenos Aires, Tokyo, Barcelona, 
+    Mumbai, Orlando, Sydney, Narrow Twisting Cliffside Road, 
+    Central Park N.Y., Cape Town, Vienna, Silicon Valley, Oakland, 
+    Nueva York.
     
-    Noche:
+    Noche: Zurich, Milan, Roma, Dubai, Monaco, San Francisco II, 
+    San Diego, Buenos Aires III, Los Angeles, Dublin, Hollywood, 
+    New Orleans, Washington DC.
     
 
 =Julio-Agosto=
