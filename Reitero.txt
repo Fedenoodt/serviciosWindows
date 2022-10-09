@@ -90,9 +90,15 @@ Noche: Chicago, Miami, Nueva York, Las Vegas,
 Philadelphia, San Diego, Buenos Aires II, Londres.
 
 Final:
-    Día: 
-    
-    Noche:
+    Dia: Ciudad de México, París II, Bristol, Chicago, 
+    Rio de Janeiro, Buenos Aires II, Tokio, Villas 
+    Alpinas, Barcelona, Orlando, Canberra, Sydney, 
+    Lima, Washington DC, Central Park NY, Hong Kong, 
+    Silicon Valley, San Francisco, Oakland, Dubai.
+
+    Noche: Dallas, Chicago, Singapur, Nueva York, Las Vegas, 
+    Philadelphia, San Diego, Milan, Los  Angeles, Hollywood, 
+    Buenos Aires, Londres.
     
 
 =Noviembre-Diciembre=
@@ -122,11 +128,11 @@ Dubai 4, Irish, Sudáfrica, Liverpool, "Lago Italia",
 Hong Kong 5, Roma 4, Narrow Twisting Cliffside Road, 
 Cape Town, Washington DC, Milan, Aspen, y Los Angeles.
 
-Noche: Chicago 5, Miami 5, Rio de Janeiro 4, Las Vegas 6, San 
-Francisco 5, Miramar W, Buenos Aires W 2, Buenos Aires 22, 
-Los Angeles 5, Hollywood 3, Tandil W, San Diego 3, Ibiza, 
-Milan, Monaco, Washington DC 2, Philadelphia, Londres 2, 
-Detroit.
+Noche: Chicago 5, Miami 5, Rio de Janeiro 4, Nueva York 4, 
+Las Vegas 6, San Francisco 5, Miramar W, Buenos Aires W 2, 
+Buenos Aires 22, Los Angeles 5, Hollywood 3, Tandil W, 
+San Diego 3, Ibiza, Milan, Monaco, Washington DC 2, 
+Philadelphia, Londres 2, Detroit.
 
 Final:
     Día: 
