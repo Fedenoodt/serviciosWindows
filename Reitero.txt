@@ -58,7 +58,7 @@ Final:
     
     Noche: Zurich, Milan, Roma, Dubai, Monaco, San Francisco II, 
     San Diego, Buenos Aires III, Los Angeles, Dublin, Hollywood, 
-    New Orleans, Washington DC.
+    New Orleans III, Washington DC.
     
 
 =Julio-Agosto=
@@ -158,8 +158,8 @@ Final:
     
     Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, 
     Toronto, Chicago, Miami, Rio de Janeiro II, Las 
-    Vegas, Detroit, Nueva York, Zurich, Milan, Roma, Dubai, 
-    Monaco, San Francisco, San Diego, Milan, Sao Paulo, 
+    Vegas, Detroit, Nueva York 3, Zurich, Milan 2, Roma, Dubai, 
+    Monaco, San Francisco 5, San Diego 4, Sao Paulo, 
     Ibiza, Miramar W, Buenos Aires W II, Buenos Aires II, 
-    Hong Kong, Dallas, Los Angeles, Dublin, Hollywood, New 
-    Orleans, Washington DC, Londres.
+    Hong Kong, Dallas 2, Los Angeles 5, Dublin, Hollywood 4, New 
+    Orleans 3, Washington DC 3, Londres 2.
