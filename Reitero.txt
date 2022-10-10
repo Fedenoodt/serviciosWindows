@@ -22,10 +22,9 @@ Final:
 
 =Marzo-Abril=
     Día: Roma, Rio de Janeiro, Buenos Aires III, Tokyo, Madrid, 
-    Barcelona, Irish, Mumbai, Sudáfrica, Liverpool, 
-    Central Park N.Y., "Lago Italia", Hong Kong, Silicon Valley
-    II, Oakland. 
-
+    Barcelona, Irish, Mumbai, Sudáfrica, Liverpool, Central 
+    Park N.Y., "Lago Italia", Hong Kong, Silicon Valley II, 
+    Oakland. 
 
     Noche: Chicago, Nueva York, San Francisco, Las Vegas, San 
     Diego, Buenos Aires IIIII, Ibiza, Los Angeles.
@@ -74,9 +73,15 @@ Vegas, San Diego, Buenos Aires IIIII, Los Angeles,
 Hollywood, Washington DC.
 
 Final:
-    Día: 
+    Dia: Roma, Rio de Janeiro, Buenos Aires II, Tokyo, 
+    Madrid, Nueva York, Orlando, California, Sydney, Venecia, 
+    Berlín, Central Park N.Y., París, Hong Kong, Silicon 
+    Valley II, Oakland.
     
-    Noche:
+    
+    Noche: Santiago, Chicago, Miami, Nueva York, San Francisco, 
+    Brooklyn, San Diego, Buenos Aires IIII, Hong Kong, Los 
+    Angeles, Hollywood, Washington DC.
     
 
 =Septiembre-Octubre=
@@ -112,9 +117,13 @@ Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas,
 Detroit, Buenos Aires III, y Londres.
 
 Final:
-    Día: 
+    Dia: Milan, Buenos Aires II, Aspen, Los Angeles, San 
+    Francisco, Madrid, Barcelona, Orlando, Canberra, 
+    Sydney, Londres II, Lima, Venecia, Berlín, Central Park NY, 
+    París, Hong Kong, Silicon Valley II, Oakland, Dubai.
     
-    Noche:
+    Noche: Chicago, Miami, Rio de Janeiro II, Las Vegas, 
+    Detroit, Buenos Aires III, y Londres.
     
 
 ==== Conteo....
@@ -135,7 +144,22 @@ San Diego 3, Ibiza, Milan, Monaco, Washington DC 2,
 Philadelphia, Londres 2, Detroit.
 
 Final:
-    Día: 
+    Dia: Ciudad de México, Dubai 3, París 4, Buenos Aires 
+    9, Bristol, Chicago, Tokio W, Tokyo 3, Villas 
+    Alpinas, Buenos Aires W, Miramar W, Madrid 2, 
+    Barcelona 3, Orlando 4, Canberra 2, Sydney 5, 
+    Londres 4, Lima 3, Venecia 3, Narrow Twisting 
+    Cliffside Road, Sorrento W, Berlín 2, Irish, Mumbai 2, 
+    Sudáfrica, Liverpool, Los Angeles 2, Central Park 
+    N.Y. 6, Cape Town, Vienna, Manhattan W, Petra W, 
+    Silicon Valley 5, Oakland 5, San Francisco 3, 
+    "Lago Italia", Hong Kong 3, Roma 3, 
+    Washington DC, Milan y Aspen.
     
-    Noche:
-    
+    Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, 
+    Toronto, Chicago, Miami, Rio de Janeiro II, Las 
+    Vegas, Detroit, Nueva York, Zurich, Milan, Roma, Dubai, 
+    Monaco, San Francisco, San Diego, Milan, Sao Paulo, 
+    Ibiza, Miramar W, Buenos Aires W II, Buenos Aires II, 
+    Hong Kong, Dallas, Los Angeles, Dublin, Hollywood, New 
+    Orleans, Washington DC, Londres.
