@@ -101,9 +101,9 @@ Final:
     Lima, Washington DC, Central Park NY, Hong Kong, 
     Silicon Valley, San Francisco, Oakland, Dubai.
 
-    Noche: Dallas, Chicago, Singapur, Nueva York, Las Vegas, 
+    Noche: Dallas, Chicago, Olando, Singapur, Nueva York, Las Vegas, 
     Philadelphia, San Diego, Milan, Los  Angeles, Hollywood, 
-    Buenos Aires, Londres.
+    Buenos Aires.
     
 
 =Noviembre-Diciembre=
@@ -158,7 +158,7 @@ Final:
     
     Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, 
     Toronto, Chicago, Miami, Rio de Janeiro II, Las 
-    Vegas, Detroit, Nueva York 3, Zurich, Milan 2, Roma, Dubai, 
+    Vegas, Detroit, Nueva York 3, Zurich, Milan 2, Roma, Orlando,  
     Monaco, San Francisco 5, San Diego 4, Sao Paulo, 
     Ibiza, Miramar W, Buenos Aires W II, Buenos Aires II, 
     Hong Kong, Dallas 2, Los Angeles 5, Dublin, Hollywood 4, New 
