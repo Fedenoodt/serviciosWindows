@@ -101,9 +101,9 @@ Final:
     Lima, Washington DC, Central Park NY, Hong Kong, 
     Silicon Valley, San Francisco, Oakland, Dubai.
 
-    Noche: Dallas, Chicago, Olando, Singapur, Nueva York, Las Vegas, 
+    Noche: Dallas, Chicago, Singapur, Nueva York, Las Vegas, 
     Philadelphia, San Diego, Milan, Los  Angeles, Hollywood, 
-    Buenos Aires.
+    Buenos Aires, Londres.
     
 
 =Noviembre-Diciembre=
