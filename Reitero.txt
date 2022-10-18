@@ -151,7 +151,7 @@ Final:
     Londres 4, Lima 3, Venecia 3, Narrow Twisting 
     Cliffside Road, Sorrento W, Berlín 2, Irish, Mumbai 2, 
     Sudáfrica, Liverpool, Los Angeles 2, Central Park 
-    N.Y. 6, Cape Town, Vienna, Manhattan W, Petra W, 
+    N.Y. 5, Seatle, Cape Town, Vienna, Manhattan W, Petra W, 
     Silicon Valley 5, Oakland 5, San Francisco 3, 
     "Lago Italia", Hong Kong 3, Roma 3, 
     Washington DC, Milan y Aspen.
