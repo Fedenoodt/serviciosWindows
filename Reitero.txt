@@ -6,7 +6,7 @@
     Petra W, Silicon Valley, San Francisco.
     
     Noche: Delhi, Singapur, Estambúl, Rio de Janeiro II, San 
-    Francisco, Miramar W, Buenos Aires W II, Buenos Aires II, 
+    Francisco, Miramar W, Buenos Aires W II, Buenos Aires, 
     Los Angeles, Hollywood.
 
 
@@ -87,6 +87,6 @@
     Toronto, Chicago, Miami, Rio de Janeiro II, Las 
     Vegas, Detroit, Nueva York 3, Zurich, Milan 2, Roma, Orlando,  
     Monaco, San Francisco 5, San Diego 4, Sao Paulo, 
-    Ibiza, Miramar W, Buenos Aires W II, Buenos Aires II, 
+    Ibiza, Miramar W, Buenos Aires W II, Buenos Aires 14, 
     Hong Kong, Dallas 2, Los Angeles 5, Dublin, Hollywood 4, New 
     Orleans 3, Washington DC 3, Londres 2.
